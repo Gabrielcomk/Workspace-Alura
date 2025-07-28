@@ -1,0 +1,12 @@
+
+Java: criando a sua primeira aplicação: https://cursos.alura.com.br/user/gabrielkarkotli/course/java-criando-primeira-aplicacao/certificate
+
+Logica de programação mergulhe em programação com JavaScript: https://cursos.alura.com.br/user/gabrielkarkotli/course/logica-programacao-mergulhe-programacao-javascript/certificate
+
+Logica de programação explore funções e listas: https://cursos.alura.com.br/user/gabrielkarkotli/course/logica-programacao-funcoes-listas/certificate
+
+Começando em Programação: carreira e primeiros passos: https://cursos.alura.com.br/user/gabrielkarkotli/course/comecando-programacao-carreira-primeiros-passos/certificate
+
+Git e GitHub: compartilhando e colaborando em projetos: https://cursos.alura.com.br/user/gabrielkarkotli/course/git-github-compartilhando-colaborando-projetos/certificate
+
+Git e GitHub: dominando controle de versão de código: https://cursos.alura.com.br/user/gabrielkarkotli/course/git-github-dominando-controle-versao-codigo/certificate
